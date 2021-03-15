@@ -40,6 +40,12 @@ Data set statistics considered in this study:
 * List of all FunFams IDs with EC annotations in the 458 superfamilies: `data/funfams_ids_with_ecs.txt`
 * Sequences and segments in FunFams v4.3: `ftp://rostlab.org/FunFamsClustering/sequences_funfams.txt`
 
+# Cite
+
+If you are using this method and find it helpful, we would appreciate if you could cite the following publication:
+
+Littmann M, Bordin N, Heinzinger M, Orengo C, Rost B (2021). Clustering FunFams using sequence embeddings improves EC purity. bioRxiv. [https://doi.org/10.1101/2021.01.21.427551](https://doi.org/10.1101/2021.01.21.427551)
+
 # References
 [1] Das S, Lee D, Sillitoe I, Dawson N, Lees JG, Orengo CA (2016). Functional classification of CATH superfamilies: a domain-based approach for protein function annotation. Bioinformatics, 32(18).
 
