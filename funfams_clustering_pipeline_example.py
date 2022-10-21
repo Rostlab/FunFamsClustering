@@ -71,3 +71,6 @@ def main():
                 FileManager.write_outliers(outliers_out, f, outliers, file_action)
                 cluster_results.write_clustering_results(f, cluster_out_prefix, cluster_out_suffix, file_action)
                 file_action = 'a'  # append results to the previous file
+                
+                
+main()
